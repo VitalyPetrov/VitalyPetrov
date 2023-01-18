@@ -2,7 +2,7 @@
 
 
 - 🇷🇺 I live in Moscow, Russia
-- 🏡 I`m a ML engineer at [Zvuk.com](https://zvuk.com/)
+- 🏡 I`m a Lead ML engineer at [Zvuk.com](https://zvuk.com/)
 - 🔭 My main working field concerns recommender systems development and deployment
 - 🚀 I`m trying to work on my pet-projects from time to time
 - ⌨️ Mechanical keyboards enthusiast
