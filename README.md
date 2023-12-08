@@ -3,7 +3,7 @@
 
 - 🇷🇺 I live in Moscow, Russia
 - 🏡 I`m a Lead ML engineer at [X5 Media](https://food.ru/)
-- 🔭 My main working field concerns recommender systems development and deployment
+- 🔭 My main working field concerns recommender systems development and MLOps
 - 🚀 I`m trying to work on my pet-projects from time to time
 - ⌨️ Mechanical keyboards enthusiast
 - 📫 How to reach me: [email](mailto:VitaliyPetrov18@gmail.com)
