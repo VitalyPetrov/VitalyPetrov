@@ -2,7 +2,7 @@
 
 
 - 🇷🇺 I live in Moscow, Russia
-- 🏡 Ml Tech Lead
+- 🏡 ML Tech Lead
 - 🔭 My main working field concerns recommender systems development and MLOps
 - 🚀 I`m trying to work on my pet-projects from time to time
 - ⌨️ Mechanical keyboards enthusiast
