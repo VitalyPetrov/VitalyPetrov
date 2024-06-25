@@ -2,7 +2,7 @@
 
 
 - 🇷🇺 I live in Moscow, Russia
-- 🏡 I`m a Lead ML engineer at [X5 Media](https://food.ru/)
+- 🏡 Ml Tech Lead
 - 🔭 My main working field concerns recommender systems development and MLOps
 - 🚀 I`m trying to work on my pet-projects from time to time
 - ⌨️ Mechanical keyboards enthusiast
